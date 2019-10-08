@@ -1,0 +1,37 @@
+body{
+    background-image: url("../img/Fondo.jpg");
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-attachment: fixed;
+    background-size: 100% 80%;
+}
+
+.row{
+    margin-bottom: 0px;
+}
+
+.logo{
+    margin-top: 1rem;
+    opacity: 0.8;
+}
+
+.titulo {
+    margin-top: 2rem;
+}
+
+.redes{
+    padding: 0px!important;
+    background-color: transparent!important;
+    color: white!important;
+}
+
+.margin-redes{
+    margin-bottom: 1rem;
+}
+
+.destinos{
+    width: 100%;
+}
+.entradas{
+    padding: 0.25rem 0.5rem!important;
+}

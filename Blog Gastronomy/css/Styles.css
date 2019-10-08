@@ -1,0 +1,48 @@
+*{
+    color: white;    
+}
+
+body{
+    background-image: url("../img/Fondo.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+.fondo-transparent{
+    background-color: rgba(105, 105, 105, 0.7);
+}
+
+.titulo{
+    color: white;
+}
+
+.text-decoration{
+    list-style: none; 
+}
+
+a {
+  color: white;
+  font-weight: bold;  
+}
+
+.img-fav{
+    height: 100px;
+    margin-bottom: 1em;
+    padding: 0;
+}
+
+.historial{
+    margin: 0em 0em 1em 0em;
+    padding: 0em 0em 0em 1em;
+}
+
+.card{
+    margin: 0 1rem 1rem 1rem;
+}
+
+.img-blog{
+    height: 300px;
+    width: 100%;
+    margin-bottom: 1rem;
+}
